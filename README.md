@@ -16,4 +16,4 @@ This is a simple web project. Deployment can be on any web server or even local 
 Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
-Git.Training
+Git.Training. All rights reserved.
